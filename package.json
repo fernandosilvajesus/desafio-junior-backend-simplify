@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Repositório para ser usado pelos candidatos à vaga de Desenvolvedor Júnior Backend Liferay da Simplify",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/app.js"
   },
