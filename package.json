@@ -4,7 +4,7 @@
   "description": "Repositório para ser usado pelos candidatos à vaga de Desenvolvedor Júnior Backend Liferay da Simplify",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/app.js"
   },
   "keywords": [],
   "author": "",
